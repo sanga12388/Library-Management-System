@@ -1,16 +1,16 @@
-##Library Management System
+Library Management System
 
-##Overview:
+Overview:
 
 This is a simple library management system implemented in Python. It provides basic functionalities for managing books, users, and transactions within a library.
 
-##Features:
+Features:
 
     Book Management: Add, update, delete, list, and search for books by title, author, or ISBN.
     User Management: Add, update, delete, list, and search for users by name or user ID.
     Transaction Management: Check out and check in books for users, track books currently checked out by users, and retrieve the number of books taken by a user.
 
-##Usage:
+Usage:
 
     Clone the repository:
 
