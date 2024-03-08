@@ -16,7 +16,7 @@ Usage:
 
     bash
 
-git clone https://github.com/sanga12388/library-management-system.git
+git clone https://github.com/sanga12388/Library-Management-System.git
 
 Navigate to the project directory:
 
